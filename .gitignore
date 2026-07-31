@@ -1,0 +1,16 @@
+# Large local data and generated artifacts
+/examples/
+/resources/
+/Presentation/
+/Animation/
+/ExportedFigures/
+
+# MATLAB generated/cache files
+*.asv
+*.m~
+*.slxc
+*.mex*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
