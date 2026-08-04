@@ -5,6 +5,10 @@
 /Animation/
 /ExportedFigures/
 
+# Local assistant/project metadata
+/.agents/
+/.codex/
+
 # MATLAB generated/cache files
 *.asv
 *.m~
