@@ -3,6 +3,7 @@ function projectRoot = setupCalibWave()
 
 projectRoot = fileparts(mfilename('fullpath'));
 
+
 addpath(projectRoot);
 addpath(fullfile(projectRoot, 'apps'));
 addpath(fullfile(projectRoot, 'external', 'tpc5'));
